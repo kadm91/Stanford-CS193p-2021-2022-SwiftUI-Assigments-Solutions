@@ -45,7 +45,9 @@ Feel free to explore the code, submit issues, or contribute to making this repos
 * MVVM
 * Intent functions
 * init functions
-* Type Variables (i.e. static) 5. Access Control (i.e. private) 6. Array
+* Type Variables (i.e. static)
+* Access Control (i.e. private)
+* Array
 * Closures
 
 ### App Preview
