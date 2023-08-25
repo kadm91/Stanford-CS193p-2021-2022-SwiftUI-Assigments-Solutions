@@ -33,7 +33,7 @@ Feel free to explore the code, submit issues, or contribute to making this repos
 ### App Preview
 
 <p align="center">
-<img src="https://github.com/kadm91/Gif-Images-For-Repositories/blob/main/Assigment-1-SwiftUI.gif"  width="350" height="660" /> 
+<img src="https://github.com/kadm91/Gif-Images-For-Repositories/blob/main/Assigment-1-SwiftUI.gif"  width="428" height="926" /> 
 </p>
 
  ----------------------------------------------
