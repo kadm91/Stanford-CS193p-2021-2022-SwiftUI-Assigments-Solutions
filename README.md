@@ -72,7 +72,7 @@ Feel free to explore the code, submit issues, or contribute to making this repos
 ### App Preview
  
 <p align="center">
-<img src="" /> 
+<img src="https://github.com/kadm91/assets/blob/main/assigment-3-SwfitUI.gif" width="210" height="430" /> 
 </p>
 
  ----------------------------------------------
@@ -86,7 +86,7 @@ Feel free to explore the code, submit issues, or contribute to making this repos
 ### App Preview
  
 <p align="center">
-<img src="" /> 
+<img src="https://github.com/kadm91/assets/blob/main/Assigment-4-SwfitUI.gif" width="210" height="430" /> 
 </p>
 
  ----------------------------------------------
@@ -100,7 +100,7 @@ Feel free to explore the code, submit issues, or contribute to making this repos
 ### App Preview
  
 <p align="center">
-<img src="" /> 
+<img src="https://github.com/kadm91/assets/blob/main/iPad%20Pro%2012.9%20-%20Space%20Gray%20-%20Landscape.gif" width="700" height="550" /> 
 </p>
 
  ----------------------------------------------
@@ -122,7 +122,7 @@ Feel free to explore the code, submit issues, or contribute to making this repos
   ### App Preview
  
 <p align="center">
-<img src="" /> 
+<img src="https://github.com/kadm91/assets/blob/main/Assigment-6-SwfitUI.gif" width="210" height="430" /> 
 </p>
 
  ----------------------------------------------
