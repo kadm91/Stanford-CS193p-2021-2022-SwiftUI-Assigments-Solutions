@@ -31,9 +31,9 @@ Feel free to explore the code, submit issues, or contribute to making this repos
 * Running your application in different simulators
 
 ### App Preview
- 
+
 <p align="center">
-<img src="[https://github.com/kadm91/Gif-Images-For-Repositories/blob/main/github%20gift%20for%20repository%20template.mp4](https://github.com/kadm91/Gif-Images-For-Repositories/blob/main/Assigment-1-SwiftUI.gif)" /> 
+<img src="https://github.com/kadm91/Gif-Images-For-Repositories/blob/main/Assigment-1-SwiftUI.gif"  width="350" height="660" /> 
 </p>
 
  ----------------------------------------------
